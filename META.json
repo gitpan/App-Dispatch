@@ -28,7 +28,7 @@
    "provides" : {
       "App::Dispatch" : {
          "file" : "lib/App/Dispatch.pm",
-         "version" : "0.004"
+         "version" : "0.005"
       }
    },
    "release_status" : "stable",
@@ -43,5 +43,5 @@
          "url" : "http://github.com/exodist/App-Dispatch"
       }
    },
-   "version" : "0.004"
+   "version" : "0.005"
 }
