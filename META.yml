@@ -16,9 +16,9 @@ name: App-Dispatch
 provides:
   App::Dispatch:
     file: lib/App/Dispatch.pm
-    version: 0.005
+    version: 0.006
 resources:
   bugtracker: http://github.com/exodist/App-Dispatch/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/App-Dispatch
-version: 0.005
+version: 0.006

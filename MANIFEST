@@ -1,7 +1,5 @@
-bin/dispatch
+bin/app_dispatch
 bin/dispatch.c
-bin/dispatch.o
-bin/dispatch.pl
 Build.PL
 inc/MyBuild.pm
 lib/App/Dispatch.pm
