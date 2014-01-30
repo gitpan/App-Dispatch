@@ -90,7 +90,7 @@ BEGIN {
 
         my @cascade;
 
-        push @cascade => shift @argv while @argv && $argv[0] ne '--';
+        unshift @cascade => shift @argv while @argv && $argv[0] ne '--';
         shift @argv;
 
         @cascade = ( 'DEFAULT', 'SYSTEM' ) unless @cascade;
